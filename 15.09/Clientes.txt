@@ -1,0 +1,6 @@
+Nome;Idade;Endereço;Bairro;Cidade
+Paulo Sérgio Ribeiro;40;Rua São Pedro, 54;Centro;Limeira
+Fábio Antunes;28;Av. São Paulo, 265;Paraíso;Sorocaba
+Cássio Spoletto;18;Rua dos Prazeres, 58;Jd. América;Campinas
+Amanda Rodrigues;30;Alameda das Rosas, 73;Vila Alpina;Itu
+Lorena Silveira;45;Rua Pederneiras, 32;Centro;Jundiaí
